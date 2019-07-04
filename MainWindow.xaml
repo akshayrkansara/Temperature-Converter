@@ -1,0 +1,31 @@
+﻿ <!-- Akshay, Tyler, Shubham, Anil
+    Group No 3-->
+    <Window x:Class="TemperatureConverter.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TemperatureConverter"
+        mc:Ignorable="d"
+        Title="TemperatureConverter" Width="650" Height="550">
+    <Grid Margin="10">
+        <Grid.Background>
+                <ImageBrush ImageSource="climate-cold-glacier-iceberg.jpg"></ImageBrush>
+            </Grid.Background>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+        <TextBox Name ="temp" Width="250" Height="50" FontSize="35" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="25" TextAlignment="Left" Background="LightGray" HorizontalContentAlignment="Left" Grid.Row ="0" Grid.Column="1" />
+            <Label Content="Enter Temperature" Grid.Row ="0" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Center"  FontSize="34" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+            <Button Name="celToF" Click="celToF_Click"  FontSize="25" Grid.Row="1" Grid.Column="0" Content="Celsius to Fahrenhiet" Margin="25" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
+            <Button Name="fToCel" Click="fToCel_Click"  FontSize="25" Grid.Row="1" Grid.Column="1" Content="Fahrenhiet to Celsius " Margin="25" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
+        <Label Name="lblDisp" Background="LightGray" Grid.Row="2"  FontSize="35"  VerticalAlignment ="Center" HorizontalAlignment="Center" HorizontalContentAlignment="Center" Grid.ColumnSpan="2" Margin="25" Width="600" Height="50"/>
+    </Grid>
+
+</Window>

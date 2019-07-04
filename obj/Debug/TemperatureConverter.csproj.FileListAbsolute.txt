@@ -1,0 +1,15 @@
+C:\Users\MASTER\source\repos\TemperatureConverter\TemperatureConverter\bin\Debug\TemperatureConverter.exe.config
+C:\Users\MASTER\source\repos\TemperatureConverter\TemperatureConverter\bin\Debug\TemperatureConverter.exe
+C:\Users\MASTER\source\repos\TemperatureConverter\TemperatureConverter\bin\Debug\TemperatureConverter.pdb
+C:\Users\MASTER\source\repos\TemperatureConverter\TemperatureConverter\obj\Debug\TemperatureConverter.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\source\repos\TemperatureConverter\TemperatureConverter\obj\Debug\MainWindow.g.cs
+C:\Users\MASTER\source\repos\TemperatureConverter\TemperatureConverter\obj\Debug\App.g.cs
+C:\Users\MASTER\source\repos\TemperatureConverter\TemperatureConverter\obj\Debug\TemperatureConverter_MarkupCompile.cache
+C:\Users\MASTER\source\repos\TemperatureConverter\TemperatureConverter\obj\Debug\TemperatureConverter_MarkupCompile.lref
+C:\Users\MASTER\source\repos\TemperatureConverter\TemperatureConverter\obj\Debug\MainWindow.baml
+C:\Users\MASTER\source\repos\TemperatureConverter\TemperatureConverter\obj\Debug\TemperatureConverter.g.resources
+C:\Users\MASTER\source\repos\TemperatureConverter\TemperatureConverter\obj\Debug\TemperatureConverter.Properties.Resources.resources
+C:\Users\MASTER\source\repos\TemperatureConverter\TemperatureConverter\obj\Debug\TemperatureConverter.csproj.GenerateResource.Cache
+C:\Users\MASTER\source\repos\TemperatureConverter\TemperatureConverter\obj\Debug\TemperatureConverter.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\source\repos\TemperatureConverter\TemperatureConverter\obj\Debug\TemperatureConverter.exe
+C:\Users\MASTER\source\repos\TemperatureConverter\TemperatureConverter\obj\Debug\TemperatureConverter.pdb
