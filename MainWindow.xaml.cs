@@ -1,5 +1,3 @@
-﻿/* Akshay, Tyler, Shubham, Anil
- Group No 3*/
 using System;
 using System.Windows;
 namespace TemperatureConverter
